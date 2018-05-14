@@ -5,4 +5,4 @@ services:
     ports:
       - "8080:8080"
     volumes:
-    - ./dist/user-registration.war:/usr/local/tomcat/webapps/user-registration.war
+    - ./dist/user-registration-application-0.0.1-SNAPSHOT.war:/usr/local/tomcat/webapps/user-registration-application-0.0.1-SNAPSHOT.war
