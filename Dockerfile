@@ -1,5 +1,5 @@
 # Pull base image
-FROM tomcat:8-jre8
+FROM tomcat:8.0.21-jre8
 
 # Maintainer
 MAINTAINER "Mael Voyame <mael.voyame@he-arc.ch">
